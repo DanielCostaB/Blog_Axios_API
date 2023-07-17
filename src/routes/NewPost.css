@@ -19,7 +19,8 @@ form {
   margin-bottom: 0.5rem;
 }
 
-.form-control input, .form-control textarea {
+.form-control input,
+.form-control textarea {
   padding: 0.5rem;
   border-radius: 5px;
   border: none;
